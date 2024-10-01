@@ -1,0 +1,40 @@
+.translate-button {
+    padding: 8px 16px;
+    background-color: #f1f1f1;
+    color: #555;
+    border-radius: 8px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .translate-button:hover {
+    background-color: #e2e2e2;
+  }
+  
+  .nav-link {
+    color: #555;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.2s ease;
+  }
+  
+  .nav-link:hover {
+    color: #1d4ed8;
+  }
+  
+  .nav-button {
+    background-color: #1d4ed8;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 16px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .nav-button:hover {
+    background-color: #2563eb;
+  }
+  
